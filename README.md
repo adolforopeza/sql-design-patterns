@@ -1,6 +1,9 @@
 ## 🚀 Descripción General
 Este repositorio contiene el esquema relacional completo (`system_auth`) para MySQL / MariaDB, acompañado de scripts de datos sintéticos (seed data) optimizados para pruebas de estrés, desarrollo backend de alto tráfico.
 
+## 📊 Diagrama de Arquitectura de Base de Datos
+![Diagrama Entidad-Relación de System Auth](desing/desing.jpeg)
+
 ## 🤖 Uso de Inteligencia Artificial (IA)
 Este proyecto ha sido optimizado y refactorizado con la asistencia de Inteligencia Artificial para cumplir con los más altos estándares de ingeniería de software:
 - **Análisis y Optimización de Estructura**: Evaluación profunda del esquema SQL para garantizar la máxima velocidad transaccional y un bajo consumo de memoria RAM.
