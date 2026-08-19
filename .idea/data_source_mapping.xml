@@ -2,5 +2,6 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/querys/select/category.sql" value="c9956046-5f51-4e24-ae7e-38900dd63941" />
+    <file url="file://$PROJECT_DIR$/querys/select/product.sql" value="c9956046-5f51-4e24-ae7e-38900dd63941" />
   </component>
 </project>
