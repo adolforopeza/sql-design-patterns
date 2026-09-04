@@ -24,7 +24,7 @@ create index idx_profiles_username on bittree.profiles (username);
 
 -- Creación de la tabla de enlaces
 create table bittree.links (
-    id integer generated always as identity,
+    id uuid NOT NULL DEFAULT uuid_generate_v4(),
     profile_id uuid not null,
     link_json jsonb not null default '{}'::jsonb,
     icon varchar(50),
